@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Quadrado laranja centralizado -->
+  <rect x="30" y="30" width="40" height="40" fill="#FF5722">
+    <!-- Animação de rotação contínua -->
+    <animateTransform 
+      attributeName="transform" 
+      type="rotate" 
+      from="0 50 50" 
+      to="360 50 50" 
+      dur="2s" 
+      repeatCount="indefinite" />
+  </rect>
+</svg>
